@@ -1,0 +1,9 @@
+{
+  "name": "react-redux-pwa-boilerplate",
+  "version": "1.0.0",
+  "description": "An opinionated boilerplate for Progressive Web Apps (PWA)",
+  "main": "index.js",
+  "repository": "https://github.com/RajaPradhan/react-redux-pwa-boilerplate.git",
+  "author": "Raja Pradhan <rajapradhan08@gmail.com>",
+  "license": "MIT"
+}
